@@ -3,4 +3,5 @@ Here are my config files for 'stuff'. To be explicit and to help beginners, this
 * _pentadactylrc for the Firefox Pentadactyl plugin/addon, 
 * authotkey scripts that automatically expand text strings, and 
 * Preference settings for programs like Sublime Text 3
+
 and anything else I can list out using plain text + markdown.
